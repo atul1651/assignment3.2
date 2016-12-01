@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+
+<title>Assignment for Wordpress Theme</title>
+</head>
+<body>
+<img src="wordpress-logo.jpg" alt="wordpress logo not found" width="400px">
+<div class="fileUpload btn btn-primary">
+    <span>Upload</span>
+    <input type="file" class="upload" />
+</div>
+<p>Or search in <input type="text" name="search" placeholder="Search.."> <img src="unnamed.png" height="30px"></p>
+</body>
+</html>
